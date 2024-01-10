@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://10domino99.finalfit.org/sitemap.xml
